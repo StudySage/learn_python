@@ -1,2 +1,2 @@
-# learn_python
+# Learn Python
 Learn python from beginning to advanced features
