@@ -33,10 +33,10 @@ To get started with the Python materials:
    ```
    Then, open any notebook file (.ipynb) to begin learning.
 
-   **Alternative Options:**  
-   You can also open the notebook files in [VS Code](https://code.visualstudio.com/) or upload them to [Google Colab](https://colab.research.google.com/) for an enhanced interactive experience.
+   **Better Options:**  
+   You can also open the notebook files in [VS Code](https://code.visualstudio.com/) or open them in [Google Colab](https://colab.research.google.com/) for playing with the codes.
 
-   Open the urls in Google Colab:
+   Copy and open the urls in Google Colab:
    - [chapter_1_python_basic.ipynb](https://github.com/StudySage/learn_python/blob/main/en/chapter_1_python_basic.ipynb)
    - [chapter_2_functions_and_modules.ipynb](https://github.com/StudySage/learn_python/blob/main/en/chapter_2_functions_and_modules.ipynb)
 
