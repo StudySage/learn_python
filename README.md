@@ -36,6 +36,10 @@ To get started with the Python materials:
    **Alternative Options:**  
    You can also open the notebook files in [VS Code](https://code.visualstudio.com/) or upload them to [Google Colab](https://colab.research.google.com/) for an enhanced interactive experience.
 
+   Open the urls in Google Colab:
+   - [chapter_1_python_basic.ipynb](https://github.com/StudySage/learn_python/blob/main/en/chapter_1_python_basic.ipynb)
+   - [chapter_2_functions_and_modules.ipynb](https://github.com/StudySage/learn_python/blob/main/en/chapter_2_functions_and_modules.ipynb)
+
 ## Learning Path
 
 The content is designed to gradually build your Python skills:
