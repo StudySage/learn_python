@@ -6,17 +6,6 @@ Learn Python from the basics to advanced features through hands-on examples and 
 
 This repository is dedicated to helping learners master Python. It provides a structured path from beginner topics to more advanced programming concepts. Whether you are new to Python or looking to expand your skills, you'll find a range of resources and examples to support your learning journey.
 
-## Repository Structure
-
-The repository is organized into two main directories to cater to different language preferences:
-
-- **en/**: Contains tutorials, Jupyter notebooks, and examples in English.
-- **zh/**: Contains equivalent materials in Chinese for native speakers or those preferring Chinese resources.
-
-Additional files include:
-- **.DS_Store**: (macOS system file, can be ignored)
-- **google93e5ad52f9ce370b.html**: A file for site verification purposes (if needed).
-
 ## Getting Started
 
 To get started with the Python materials:
