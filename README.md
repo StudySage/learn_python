@@ -4,12 +4,12 @@ Learn Python from the basics to advanced features through hands-on examples and 
 
 ## Overview
 
-This repository is dedicated to helping learners master Python. It provides a structured path from beginner topics to more advanced programming concepts. Whether you are new to Python or looking to expand your skills, you'll find a range of resources and examples to support your learning journey.
+This [repository](https://github.com/StudySage/learn_python) is dedicated to helping learners master Python. It provides a structured path from beginner topics to more advanced programming concepts. Whether you are new to Python or looking to expand your skills, you'll find a range of resources and examples to support your learning journey.
 
 ## Getting Started
 
 To get started with the Python materials:
-1. **Clone the Repository**  
+1. **Clone the [Repository](https://github.com/StudySage/learn_python)**  
    Open your terminal and run:
    ```bash
    git clone https://github.com/StudySage/learn_python.git
